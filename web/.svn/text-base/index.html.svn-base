@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+  <head>
+    <title>Generative SVG Art</title>
+    <link rel="stylesheet" href="/~media/default.css" type="text/css"/>
+  </head>
+  <body>
+    <h2>Generative SVG Art</h2>
+    <p>
+    This page provides input parameters for the demonstrator 
+    described in the Master's thesis 
+    <a href="http://homepages.cwi.nl/~tjoe/work/thesis.pdf">Generation 
+    of Abstract Geometric Art Based on Exact
+    Aesthetics, Gestalt Theory and Graphic Design Principles</a> by
+    M.W. Kauw-A-Tjoe.
+    </p>
+    <h2>UNDER CONSTRUCTION!</h2>
+        
+    <form method="get" action="/cgi-bin/svggen.cgi" target="new">
+    <table width="80%">
+    <tr>
+    <td>Recursive depth <input type="text" name="depth" value="08" size="2"/></td>
+    <td>Max width<input type="text" name="width" value="1024" size="4"/></td>
+    <td>Max height<input type="text" name="height" value="768" size="4"/></td>
+    </tr>
+    </table>
+    <p>
+    <input type="submit" value="Generate"/>
+    <input type="reset" value="Reset" />
+    <input type="hidden" name="program" value="main.pl" />
+    <input type="hidden" name="foolIEmimeTypes" value="foobar.svg" />
+    </p>
+    </form>
+</body>
+</html>

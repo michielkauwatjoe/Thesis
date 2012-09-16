@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg  xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="500" height="309" fill="#f5fbfe" stroke="none" stroke-width="0"></rect>
+<g transform="translate(0,0) scale(154.5) translate(2,2) rotate(180) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.00647249190938511"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#22dff0" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="309.016992226369,0 309.016992226369,309 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<polyline points="0,190.972501195896 500,190.972501195896 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(96.3076239436254,190.972501195896)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(309.016992226369,141.405516132181)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(656.398945881236,190.972501195896)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(0,0) scale(95.4862505979479) translate(0,0) rotate(360) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.01047271197411"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#22dff0" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="118.033989257106,0 118.033989257106,190.972501195896 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<polyline points="0,72.9450053608912 309.016992226369,72.9450053608912 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(118.033989257106,166.376615935352)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(190.989496391364,72.9450053608912) scale(59.0137479175023) translate(2,0) rotate(90) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452040463172"></polyline>
+<polyline points="0,0 2,0 2,2 0,2 " fill="#0fb8b8" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="236.067975544948,72.9450053608912 236.067975544948,190.972501195896 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<polyline points="118.033989257106,145.890008886778 309.016992226369,145.890008886778 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(136.130492150013,145.890008886778)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(236.067975544948,130.996619578352)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(163.122972019061,72.9450053608912) scale(36.4725017629434) translate(2,2) rotate(180) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0274179162838787"></polyline>
+<polyline points="0,0 2,0 2,2 0,2 " fill="#ace8fc" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="190.983004103421,72.9450053608912 190.983004103421,145.890008886778 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<polyline points="118.033989257106,100.807517711755 236.067975544948,100.807517711755 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(190.983004103421,124.563567767432)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(236.067975544948,72.9450053608912) scale(36.4725017629434) translate(0,2) rotate(270) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0274179162838787"></polyline>
+<polyline points="0,0 2,0 0,2 " fill="#22dff0" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="236.067975544948,100.807517711755 309.016992226369,100.807517711755 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(190.98548323583,145.890008886778) scale(22.5412461545589) translate(2,2) rotate(180) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0443631196404708"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#0fb8b8" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="118.033989257106,173.752521237642 236.067975544948,173.752521237642 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(0.00649342210093096,72.9450053608912) scale(59.0137479175023) translate(2,0) rotate(90) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452040463172"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#ace8fc" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="0,118.027497670009 118.033989257106,118.027497670009 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g tr94,190.972501195896) scale(59.0137494020521) translate(0,0) rotate(360) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452036200436"></polyline>
+<polyline points="0,0 2,0 2,2 0,2 " fill="#acfcd4" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="427.050983318579,190.972501195896 427.050983318579,309.0 " fill="none" stroke="blue" stroke-width="1"></polyline>
+idth="1"></polyline>
+<g transform="translate(309.027498804104,0) scale(95.4862505979479) translate(2,2) rotate(180) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.01047271197411"></polyline>
+<polyline points="0,0 2,0 2,1 1,1 1,2 0,2 " fill="#0fb8b8" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="309.016992226369,72.9450053608912 500.0,72.9450053608912 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(309.016992226369,72.9450053608912) scale(59.0137479175023) translate(0,2) rotate(270) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452040463172"></polyline>
+<polyline points="0,0 2,0 0,2 " fill="#0fb8b8" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="309.016992226369,118.027497670009 500.0,118.027497670009 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(427.054996474113,118.027497670009) scale(36.4725017629434) translate(2,0) rotate(90) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0274179162838787"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#66dff7" stroke="none" stroke-width="0"></polyline>
+</g>
+<g transform="translate(381.972501195896,190.972501195896) scale(59.0137494020521) translate(2,2) rotate(180) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452036200436"></polyline>
+<polyline points="0,0 2,0 0,2 " fill="#22dff0" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="309.016992226369,263.917506556787 500.0,263.917506556787 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(309.016992226369,190.972501195896) scale(36.4725026804456) translate(2,0) rotate(90) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0274179155941536"></polyline>
+<polyline points="0,0 2,0 2,2 0,2 " fill="#0fb8b8" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="381.966010742894,190.972501195896 381.966010742894,263.917506556787 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(381.966010742894,190.972501195896) scale(36.4725026804456) translate(2,0) rotate(90) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0274179155941536"></polyline>
+<polyline points="0,0 2,0 2,2 0,2 " fill="#22dff0" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="427.050983318579,190.972501195896 427.050983318579,263.917506556787 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(190.989493422264,190.972501195896) scale(59.0137494020521) translate(2,0) rotate(90) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452036200436"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#22dff0" stroke="none" stroke-width="0"></polyline>
+</g>
+<polyline points="118.033989257106,190.972501195896 118.033989257106,309.0 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<g transform="translate(0.00649045300127682,190.972501195896) scale(59.0137494020521) translate(2,2) rotate(180) "><polyline points="0,0 2,0 2,2 0,2 0,0 " fill="none" stroke="blue" stroke-width="0.0169452036200436"></polyline>
+<polyline points="0,0 1,0 2,1 2,2 0,2 " fill="#0fb8b8" stroke="none" stroke-width="0"></polyline>
+</g>
+<g transform="translate(159,120)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(0,300)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<g transform="translate(1000,240)"><ellipse cx="0" cy="0" rx="2" ry="2" fill="white" stroke="blue" stroke-width="1"></ellipse></g>
+<polyline points="159,120 0,300 " fill="none" stroke="blue" stroke-width="1"></polyline>
+<polyline points="159,120 1000,240 " fill="none" stroke="blue" stroke-width="1"></polyline>
+</svg>
