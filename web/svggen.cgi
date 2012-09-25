@@ -11,7 +11,7 @@ def main():
 	import os
 
 
-	path = '/export/scratch1/svggen/'
+	path = '../svggen/'
 	depth = -1
 	width = 1024
         height= 768
@@ -22,10 +22,9 @@ def main():
 	if form.has_key('width')	: width=form["width"].value
 	if form.has_key('height')	: height=form["height"].value
 
-	cmd="/usr/local/bin/eclipse -e \"['%s%s'],run_noguides_polygons(%s,%s,%s).\""%(
-		path,program,depth,width,height)
+	cmd="/usr/local/bin/swipl -e \"['%s%s'],run_noguides_polygons(%s,%s,%s).\""%(path,program,depth,width,height)
 	
-	retvalue = os.system(cmd)	
+	retvalue = os.system(cmd)
 	fd=open('/tmp/svggen.svg')
 	lines = fd.readlines()
 	fd.close()

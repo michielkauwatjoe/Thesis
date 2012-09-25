@@ -1,0 +1,14 @@
+body {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    color: #44372c;
+	background: #eee;
+    font-family: tahoma, arial;
+}
+
+
+#content {
+	margin: 1em;
+}
+
