@@ -18,8 +18,8 @@
 
 which_prolog(Prolog) :-
         (delete(1,[1],[]) -> (
-                % this is problable eclipse, I feel sure enough to 
-                % call this rather eclipse specific get_flag/2 predicate
+                % this is problably Eclipse, I feel sure enough to 
+                % call this rather Eclipse specific get_flag/2 predicate
                 get_flag(toplevel_module, eclipse), Prolog=eclipse
                 );(
                 % assume swi prolog if called with 'pl', fail otherwise
